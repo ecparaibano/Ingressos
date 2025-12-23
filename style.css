@@ -44,6 +44,12 @@ h1, h2, h3 {
   font-size: 14px;
 }
 
+.logo {
+  width: 130px;
+  display: block;
+  margin: 15px auto;
+  
+}
 hr {
   margin: 25px 0;
 }
